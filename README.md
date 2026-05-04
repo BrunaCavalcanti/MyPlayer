@@ -42,6 +42,11 @@ music-player/
     └── player.js       # Toda a lógica do player (áudio, visualizador, playlists, etc.)
 ```
 
+## Paleta de cores principal:
+Fundo escuro: azul-ultramarino (#0d0b1a)
+Destaque: ametista (#a230a4)
+Texto: verde-mel (#f6ffe9)
+
 ---
 
 ## 🚀 Como usar
